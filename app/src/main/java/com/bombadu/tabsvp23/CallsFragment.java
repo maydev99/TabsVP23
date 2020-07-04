@@ -10,13 +10,9 @@ import android.view.ViewGroup;
 
 public class CallsFragment extends Fragment {
 
-
-
     public CallsFragment() {
         // Required empty public constructor
     }
-
-
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
